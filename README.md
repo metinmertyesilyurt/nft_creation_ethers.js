@@ -36,4 +36,4 @@ ETHERSCAN_API=<etherscan-api-key>
 PRIVATE_KEY=<private-key>
 ```
 
-5. `main` fonksiyonunu çalıştırın: `node script.js`
+5. `main` fonksiyonunu çalıştırın: `node create-nft`
